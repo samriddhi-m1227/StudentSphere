@@ -1,8 +1,4 @@
 # 🎓 StudentSphere
-**Course:** CS 151 – Object-Oriented Design  
-**Instructor:** Prof. Ahmad Yazdankhah  
-**Team 26**
-
 ---
 
 ##  Overview
